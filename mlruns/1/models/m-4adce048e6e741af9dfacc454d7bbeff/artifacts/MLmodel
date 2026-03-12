@@ -1,0 +1,33 @@
+artifact_path: file:d:/Semestre 2/airline delay detection/mlruns/1/models/m-4adce048e6e741af9dfacc454d7bbeff/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.10.1
+model_id: m-4adce048e6e741af9dfacc454d7bbeff
+model_size_bytes: 56789756
+model_uuid: m-4adce048e6e741af9dfacc454d7bbeff
+prompts: null
+run_id: cd35115c1fbb4188876a62e86425f7fb
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 7]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-03-12 08:57:13.674953'

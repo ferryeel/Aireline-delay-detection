@@ -1,0 +1,14 @@
+artifact_uri: file:///D:\Semestre 2\airline delay detection\mlruns/208098827681046956/597d468493f6494d8ff29d2952e5432a/artifacts
+end_time: 1772745449847
+entry_point_name: ''
+experiment_id: '208098827681046956'
+lifecycle_stage: active
+run_id: 597d468493f6494d8ff29d2952e5432a
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772745446589
+status: 3
+tags: []
+user_id: user

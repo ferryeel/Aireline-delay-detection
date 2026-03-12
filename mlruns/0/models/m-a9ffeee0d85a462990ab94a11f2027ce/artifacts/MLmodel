@@ -1,0 +1,23 @@
+artifact_path: file:D:/Semestre 2/airline delay detection/mlruns/0/models/m-a9ffeee0d85a462990ab94a11f2027ce/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-a9ffeee0d85a462990ab94a11f2027ce
+model_size_bytes: 851
+model_uuid: m-a9ffeee0d85a462990ab94a11f2027ce
+prompts: null
+run_id: 9c303ec62902428b84030e7d4a4aae04
+utc_time_created: '2026-03-05 20:35:07.353069'

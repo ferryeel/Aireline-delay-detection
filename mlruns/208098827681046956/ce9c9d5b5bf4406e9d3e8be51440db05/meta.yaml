@@ -1,0 +1,14 @@
+artifact_uri: file:///D:\Semestre 2\airline delay detection\mlruns/208098827681046956/ce9c9d5b5bf4406e9d3e8be51440db05/artifacts
+end_time: 1772744258496
+entry_point_name: ''
+experiment_id: '208098827681046956'
+lifecycle_stage: active
+run_id: ce9c9d5b5bf4406e9d3e8be51440db05
+run_name: SVC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772744255398
+status: 3
+tags: []
+user_id: user

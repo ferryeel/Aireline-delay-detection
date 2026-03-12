@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Semestre%202/airline%20delay%20detection/mlruns/629768362613124285/b655e7d8bbf94b55a3292cdcbe621ec7/artifacts
+end_time: 1772744862938
+entry_point_name: ''
+experiment_id: '629768362613124285'
+lifecycle_stage: active
+run_id: b655e7d8bbf94b55a3292cdcbe621ec7
+run_name: learned-lark-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772744862893
+status: 3
+tags: []
+user_id: user

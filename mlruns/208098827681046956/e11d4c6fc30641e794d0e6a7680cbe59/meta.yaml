@@ -1,0 +1,14 @@
+artifact_uri: file:///D:\Semestre 2\airline delay detection\mlruns/208098827681046956/e11d4c6fc30641e794d0e6a7680cbe59/artifacts
+end_time: 1772744955118
+entry_point_name: ''
+experiment_id: '208098827681046956'
+lifecycle_stage: active
+run_id: e11d4c6fc30641e794d0e6a7680cbe59
+run_name: LogisticRegression_max_iter_500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772744952064
+status: 3
+tags: []
+user_id: user

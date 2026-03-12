@@ -1,0 +1,10 @@
+artifact_location: file:///D:\Semestre 2\airline delay detection\mlruns/208098827681046956/models/m-05bd5f4a83224d88948db4c3b9425249/artifacts
+creation_timestamp: 1772744252185
+experiment_id: '208098827681046956'
+last_updated_timestamp: 1772744255381
+model_id: m-05bd5f4a83224d88948db4c3b9425249
+model_type: null
+name: model
+source_run_id: 324efd8487d2465592169357a6bd821b
+status: 2
+status_message: null

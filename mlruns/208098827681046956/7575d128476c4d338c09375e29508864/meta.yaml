@@ -1,0 +1,14 @@
+artifact_uri: file:///D:\Semestre 2\airline delay detection\mlruns/208098827681046956/7575d128476c4d338c09375e29508864/artifacts
+end_time: 1772745446583
+entry_point_name: ''
+experiment_id: '208098827681046956'
+lifecycle_stage: active
+run_id: 7575d128476c4d338c09375e29508864
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772745443442
+status: 3
+tags: []
+user_id: user

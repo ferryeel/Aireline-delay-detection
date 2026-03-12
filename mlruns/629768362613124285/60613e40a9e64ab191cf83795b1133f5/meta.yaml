@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Semestre%202/airline%20delay%20detection/mlruns/629768362613124285/60613e40a9e64ab191cf83795b1133f5/artifacts
+end_time: 1772744327968
+entry_point_name: ''
+experiment_id: '629768362613124285'
+lifecycle_stage: active
+run_id: 60613e40a9e64ab191cf83795b1133f5
+run_name: useful-bear-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772744327924
+status: 3
+tags: []
+user_id: user
