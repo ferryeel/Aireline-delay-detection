@@ -1,0 +1,8 @@
+feature,ks_stat,p_value,drifted
+MONTH,0.8482,0.0,True
+DAY_OF_WEEK,0.0333,0.0,True
+HOUR,0.1704,0.0,True
+IS_WEEKEND,0.0005,1.0,False
+IS_RUSH_HOUR,0.0026,0.282919,False
+DEP_DELAY,0.6537,0.0,True
+DISTANCE,0.0057,0.000165,True

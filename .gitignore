@@ -1,5 +1,37 @@
 # Large local dataset (not suitable for GitHub)
-2009.csv/2009.csv
+2009.csv/
+*.csv.zip
 
 # Local experiment DB
 mlflow.db
+
+# MLflow run data (large, regeneratable)
+mlruns/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Binary model files
+*.pkl
+*.joblib
+
+# Generated outputs folder
+outputs/
+
+# Claude Code internals
+.claude/
+
+# One-off utility/fix scripts
+fix_part6.py
+check_p6.py
+insert_part22.py
+embed_screenshots.py
+
+# UI screenshots (not analysis results)
+artifactdownload.png
+sortandcompare.png
+ui_compare_2runs.png
+ui_parallel_coordinates.png
+ui_runs_sorted.png

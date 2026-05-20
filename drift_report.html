@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="fr">
+<head><meta charset="utf-8"><title>Drift Report</title>
+<style>body{font-family:sans-serif;margin:2em}table{border-collapse:collapse;width:60%}
+th,td{padding:8px 12px;border:1px solid #ccc;text-align:left}th{background:#333;color:#fff}</style>
+</head><body>
+<h1>Rapport Data Drift — KS-test</h1>
+<p><em>Evidently indisponible — rapport généré par KS-test (scipy.stats.ks_2samp)</em></p>
+<h2>Résultats par feature</h2>
+<table><tr><th>Feature</th><th>KS statistic</th><th>p-value</th><th>Statut</th></tr>
+<tr style="background:#ffe0e0"><td>MONTH</td><td>0.8482</td><td>0.000000</td><td><b>DRIFT</b></td></tr><tr style="background:#ffe0e0"><td>DAY_OF_WEEK</td><td>0.0333</td><td>0.000000</td><td><b>DRIFT</b></td></tr><tr style="background:#ffe0e0"><td>HOUR</td><td>0.1704</td><td>0.000000</td><td><b>DRIFT</b></td></tr><tr style="background:#e0ffe0"><td>IS_WEEKEND</td><td>0.0005</td><td>1.000000</td><td><b>OK</b></td></tr><tr style="background:#e0ffe0"><td>IS_RUSH_HOUR</td><td>0.0026</td><td>0.282919</td><td><b>OK</b></td></tr><tr style="background:#ffe0e0"><td>DEP_DELAY</td><td>0.6537</td><td>0.000000</td><td><b>DRIFT</b></td></tr><tr style="background:#ffe0e0"><td>DISTANCE</td><td>0.0057</td><td>0.000165</td><td><b>DRIFT</b></td></tr>
+</table>
+<p>Drift détecté si p-value &lt; 0.05</p>
+</body></html>
